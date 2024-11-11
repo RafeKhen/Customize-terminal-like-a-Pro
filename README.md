@@ -60,5 +60,5 @@ You can check the following video for configure this theme
 ### Video Demo
 [![P10K Demo](https://img.youtube.com/vi/j9IAvIAOVSc/0.jpg)](https://www.youtube.com/watch?v=j9IAvIAOVSc)
 
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+### For More Video subcribe <a href="https://www.youtube.com/@Security-Matrix-7">Security Matrix YouTube Channel</a>
 ## Credit techchipnet
