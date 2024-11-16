@@ -1,6 +1,8 @@
 # Intro
 This guide will show you how to customize your Linux or MacOS terminal using Powerlevel10k and the Zsh shell for a more personalized and efficient experience.
 
+[![P10K Demo](https://img.youtube.com/vi/7q5dnaTN0UY/0.jpg)](https://www.youtube.com/watch?v=7q5dnaTN0UY)
+
 ## Zsh
 For this customization, you'll need Zsh. If you're using Kali Linux or macOS, Zsh is installed by default. To check if Zsh is your current shell, use the following command:
 ```
