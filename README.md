@@ -59,7 +59,7 @@ Now you can configure your theme as your choice. p10k will prompt some questions
 You can check the following video for configure this theme
 ### Video Demo
 
-https://youtu.be/7q5dnaTN0UY
+[![P10K Demo](https://img.youtube.com/vi/7q5dnaTN0UY/0.jpg)](https://www.youtube.com/watch?v=7q5dnaTN0UY)
 
 ### For More Video subcribe <a href="https://www.youtube.com/@Security-Matrix-7">Security Matrix YouTube Channel</a>
 ## Credit techchipnet
